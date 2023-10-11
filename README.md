@@ -1,7 +1,7 @@
 <h1>BMI Calculator</h1>
 
 <h2>Description</h2>
-Developed Snake Game using Python in VS Code. Snake Game is classic video game where a player controls a snake on a grid, and the goal is to eat food items to grow longer while avoiding collisions with the walls of the grid and the snake's own tail.  
+Developed a BMI Calculator that prommpts users to enter their weight and height to calculate their BMI, and displays the result along with the corresponding category of Underweight, Normal, Overweight, and Obesity.
 <br />
 
 <h2>Languages and Utilities Used</h2>
